@@ -10,13 +10,17 @@ User login with credentials.
 Multiple rounds of questions.
 Score tracking.
 GUI interface with Tkinter.
+
 Login Credentials
 Username: kbc24
 Password: Jaat@123
+
 Files
 kbc_code.py – Enhanced GUI version with rounds.
 finalkbc by sandeep jaat with GUI.docx – Documentation.
+
 How to Run
 Install Python.
 Run the desired .py file in your Python environment.
+
 📂 Enjoy the game and feel free to contribute
